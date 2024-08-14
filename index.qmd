@@ -6,6 +6,10 @@ To learn more about our Digital Scholarship Work: <https://digital.stlawu.edu>
 
 ```{r}
 1 + 1
+
+
 ```
+
+![dsf workshop](images/dsf-interview-ewb - 1.jpeg)
 
 I suppose that this is where I will put some text?
